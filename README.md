@@ -1,4 +1,4 @@
-## Lazyvim theme ✨
+## Lazyvim theme for VS Code ✨
 
 I was in love with how **lazyvim setup for neovim** looks and feels so I tried to install a theme inspired by lazyvim on vscode, found no theme, so I made my own.
 
