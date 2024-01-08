@@ -1,3 +1,3 @@
 ## Lazyvim theme
 
-This theme is inpspired from lazyvim for neovim.
+This theme is inspired from lazyvim for neovim.
