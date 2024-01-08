@@ -3,6 +3,22 @@
   "displayName": "lazyvim",
   "description": "theme inspired from lazyvim",
   "version": "0.0.1",
+  "publisher": "shubhsharma",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shubhsharma19/lazy-theme"
+  },
+  "keywords": [
+    "theme",
+    "themes",
+    "dark theme",
+    "lazyvim",
+    "lazyvim theme",
+    "lazy vim theme",
+    "lazy theme",
+    "neovim theme",
+    "shubhstheme"
+  ],
   "engines": {
     "vscode": "^1.85.0"
   },
