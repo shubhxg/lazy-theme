@@ -8,4 +8,4 @@ Search **"lazyvim theme"** on vscode extensions. ✨
 
 ### Screenshot of theme
 
-<img height="400px" src="https://github.com/shubhsharma19/lazy-theme/assets/69891912/d8c49850-b675-47fb-99bf-242112cce869">
+<img height="30%" src="https://github.com/shubhsharma19/lazy-theme/assets/69891912/d8c49850-b675-47fb-99bf-242112cce869">
