@@ -2,7 +2,7 @@
   "name": "lazyvim-theme",
   "displayName": "lazyvim theme",
   "description": "theme inspired from lazyvim",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "shubhsharma",
   "repository": {
     "type": "git",
