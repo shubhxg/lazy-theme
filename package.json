@@ -1,8 +1,8 @@
 {
   "name": "lazyvim-theme",
   "displayName": "lazyvim theme",
-  "description": "VSCode Theme inspired from lazyvim",
-  "version": "1.1.0",
+  "description": "vscode theme inspired from lazyvim",
+  "version": "0.3.0",
   "publisher": "shubhsharma",
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
     "shubhstheme"
   ],
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": "^1.85.1"
   },
   "categories": [
     "Themes"
