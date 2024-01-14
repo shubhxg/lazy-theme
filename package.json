@@ -3,8 +3,8 @@
   "displayName": "lazyvim theme",
   "description": "VSCode Theme inspired from lazyvim",
   "icon": "images/lazytheme.png",
-  "license":"MIT",
-  "version": "0.3.0",
+  "license": "MIT",
+  "version": "1.0.0",
   "publisher": "shubhsharma",
   "repository": {
     "type": "git",
