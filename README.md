@@ -2,16 +2,10 @@
 
 I was in love with how **lazyvim setup for neovim** looks and feels so I tried to install a theme inspired by lazyvim on vscode, found no theme, so I made my own.
 
-This theme is inspired from **lazyvim setup** for **neovim**. ✨
+This theme is inspired from **lazyvim setup** for **neovim**. 
 
-## How to download 
-1. Go to vscode
-2. Go to extensions tab
-3. Search "lazyvim"
-4. Install the theme
-5. Enjoy the beauty
+Search **"lazyvim theme"** on vscode extensions. ✨
 
 ### Screenshot of theme
 
-<img height="30%" src="https://github.com/shubhsharma19/lazy-theme/assets/69891912/fc09042a-0081-4251-8a7e-09b6d1441da5">
-
+<img height="30%" src="https://github.com/shubhsharma19/lazy-theme/assets/69891912/d8c49850-b675-47fb-99bf-242112cce869">

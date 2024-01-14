@@ -1,7 +1,7 @@
 {
   "name": "lazyvim-theme",
   "displayName": "lazyvim theme",
-  "description": "vscode theme inspired from lazyvim",
+  "description": "theme inspired from lazyvim",
   "version": "0.3.0",
   "publisher": "shubhsharma",
   "repository": {
