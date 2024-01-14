@@ -1,8 +1,10 @@
 {
   "name": "lazyvim-theme",
   "displayName": "lazyvim theme",
-  "description": "theme inspired from lazyvim",
-  "version": "0.2.0",
+  "description": "VSCode Theme inspired from lazyvim",
+  "icon": "images/lazytheme.png",
+  "license":"MIT",
+  "version": "0.3.0",
   "publisher": "shubhsharma",
   "repository": {
     "type": "git",
